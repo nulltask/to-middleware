@@ -1,6 +1,8 @@
 
 # to-middleware
 
+[![Build Status](https://travis-ci.org/nulltask/to-middleware.svg)](https://travis-ci.org/nulltask/to-middleware)
+
 Turn from server to [connect](https://github.com/senchalabs/connect)/[express](http://expressjs.com/) middleware.
 
 ## Install
