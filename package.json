@@ -1,0 +1,26 @@
+{
+  "name": "to-middleware",
+  "version": "1.0.0",
+  "description": "Turn from server to connect/express middleware.",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "connect",
+    "express",
+    "middleware",
+    "server"
+  ],
+  "author": "Seiya Konno <nulltask@gmail.com> (http://null.ly)",
+  "repository": "git://github.com/nulltask/to-middleware.git",
+  "devDependencies": {
+    "better-assert": "^1.0.2",
+    "express": "^4.12.3",
+    "mocha": "^2.2.4",
+    "supertest": "^0.15.0"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ]
+}
